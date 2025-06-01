@@ -1,6 +1,6 @@
 ---
 
-### For Frontend ([2connect-front](https://github.com/Nithin-cholleti/2connect-front))
+### For Frontend ([2connect-front](https://github.com/Nithin-cholleti/2connect-Frontend))
 
 ```markdown
 # 2Connect Frontend
@@ -25,10 +25,10 @@ git clone https://github.com/Nithin-cholleti/2connect-front.git
 cd 2connect-front
 npm install
 
-##Environment Variables
+## Environment Variables
 Create a .env file:
 REACT_APP_API_URL=http://localhost:5000
 
-##Running
+## Running
 ```bash
 npm start
