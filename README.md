@@ -1,6 +1,5 @@
 ---
 
-### For Frontend ([2connect-front](https://github.com/Nithin-cholleti/2connect-Frontend))
 
 ```markdown
 # 2Connect Frontend
